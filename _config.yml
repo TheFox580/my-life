@@ -1,2 +1,4 @@
 # Trying to make a website
-theme: pjekyll-theme-midnight
+theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
